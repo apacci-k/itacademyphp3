@@ -1,5 +1,0 @@
-change file
-git status ---- пароверка 
-git add .
-git commit -m 'vash commentariy'
-git push origin master
