@@ -1,0 +1,11 @@
+
+объектный js
+localstorage
+oop
+php
+html
+js
+css
+тест -> 10%
+лог задача -> 60%
+задание на js -> 30%
